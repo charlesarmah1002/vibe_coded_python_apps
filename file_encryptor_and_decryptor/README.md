@@ -104,3 +104,5 @@ python test_metadata_removal.py
 ```
 
 These can be used to verify the core encryption, compression, and metadata removal behavior.
+
+[CLICK HERE TO DOWNLOAD](blob:https://github.com/e53ffaf0-2501-4864-bad5-44d76ea1b761)
