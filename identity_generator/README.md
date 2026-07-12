@@ -23,4 +23,4 @@ A sleek, dark-themed generator for usernames and real names built with Python an
 ## Files
 - `app.py`: The main GUI application.
 - `logic.py`: The core generation logic (can be used as a standalone module).
-- `identity_generator.exe`: This is the bundled app [click here to download](https:\\github.com\charlesarmah1002\vibe_coded_python_apps\identity_generator\identity_generator.exe)
+- `identity_generator.exe`: This is the bundled app [click here to download](https://github.com/charlesarmah1002/vibe_coded_python_apps/blob/main/identity_generator/identity_generator.exe)
